@@ -1,0 +1,5 @@
+name=input("enter name")
+clg=input("enter clg name")
+cgpa=float(input("enter cgpa"))
+#print("iam",name,"studying",clg,"with",cgpa,)
+print("iam{}studying{}clg{}cgpa".format(name,clg,cgpa))

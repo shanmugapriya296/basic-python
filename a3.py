@@ -1,0 +1,6 @@
+name=input()
+print(name)
+print(type(name))
+cgpa=float(input())
+print(cgpa)
+print(type(cgpa))
